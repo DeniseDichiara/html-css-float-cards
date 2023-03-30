@@ -29,6 +29,7 @@ h1{
 .primo-paragrafo{
     margin-top: 50px;
     margin-bottom: 35px;
+    text-align: center;
 }
 
 img{
@@ -39,4 +40,10 @@ img{
 .first-box{
     border: 5px solid #e3306e;
     width: 40%;
+    float: left;
+}
+
+.mail{
+    font-size: 15px;
+    color: blue;
 }
