@@ -38,9 +38,15 @@ img{
 }
 
 .first-box{
-    width: 20%;
+    width: 30%;
     float: left;
     background-color: black;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+
+.nome, .ruolo {
+    color: white;
 }
 
 .mail{
