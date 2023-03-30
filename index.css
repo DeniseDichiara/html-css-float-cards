@@ -12,11 +12,45 @@
 }
 
 main{
-    padding: auto;
+    padding: 3em;
     background-color: aqua;
 }
 
-h1{
-    color: purple;
+
+/*TITLE*/
+h1{ 
+    color: red;
     text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+/*MACRO CENTRAL SECTION*/
+
+.center{
+    background-color: yellow;
+    padding: 2em;
+}
+
+p{
+    color: blue;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*prove flaot*/
+
+.blue{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.pink{
+    float: right;
 }
