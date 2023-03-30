@@ -10,29 +10,3 @@
     display: table;
     clear: both;
 }
-
-.container{
-    padding: 50px;
-    background-color: aqua;
-}
-
-.titolo{
-    font-size: 100px;
-    color: magenta;
-    font-family: 'Hind Siliguri', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.paragrafo{
-    font-size: 20px;
-    font-weight: bold;
-    padding-top: 50px;
-
-}
-
-.card{
-    background-color: black;
-    height: 200px;
-    width: 500px;
-}
