@@ -10,3 +10,13 @@
     display: table;
     clear: both;
 }
+
+main{
+    padding: auto;
+    background-color: aqua;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
