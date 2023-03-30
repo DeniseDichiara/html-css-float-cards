@@ -38,9 +38,9 @@ img{
 }
 
 .first-box{
-    border: 5px solid #e3306e;
     width: 20%;
     float: left;
+    background-color: black;
 }
 
 .mail{
