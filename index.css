@@ -16,10 +16,14 @@
 }
 
 main{
-    width: 85%;
+    width: 65%;
     margin: auto;
 }
 
 h1{
     color: #e3306e;
+}
+
+img{
+    height: 80px;
 }
