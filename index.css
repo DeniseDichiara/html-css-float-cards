@@ -28,7 +28,13 @@ h1{
     margin-top: 50px;
     margin-bottom: 35px;
 }
+
 img{
     padding-right: 1rem;
     height: 80px;
+}
+
+.first-box{
+    border: 5px solid #e3306e;
+    width: 40%;
 }
