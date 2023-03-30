@@ -11,46 +11,21 @@
     clear: both;
 }
 
-main{
-    padding: 3em;
+.container{
+    padding: 50px;
     background-color: aqua;
 }
 
-
-/*TITLE*/
-h1{ 
-    color: red;
-    text-align: center;
+.titolo{
+    font-size: 100px;
+    color: magenta;
     font-family: 'Hind Siliguri', sans-serif;
     font-family: 'Roboto', sans-serif;
-    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.paragrafo{
+    font-size: 20px;
     font-weight: bold;
-}
 
-
-/*MACRO CENTRAL SECTION*/
-
-.center{
-    background-color: yellow;
-    padding: 2em;
-}
-
-p{
-    color: blue;
-    text-align: center;
-    margin-top: 30px;
-    font-family: 'Hind Siliguri', sans-serif;
-    font-family: 'Roboto', sans-serif;
-}
-
-/*prove flaot*/
-
-.blue{
-    float: left;
-    width: 100px;
-    height: 100px;
-}
-
-.pink{
-    float: right;
 }
