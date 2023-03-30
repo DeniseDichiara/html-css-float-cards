@@ -10,3 +10,16 @@
     display: table;
     clear: both;
 }
+
+.float-left{
+    float: left;
+}
+
+main{
+    width: 85%;
+    margin: auto;
+}
+
+h1{
+    color: #e3306e;
+}
