@@ -24,6 +24,7 @@ h1{
     color: #e3306e;
     text-align: center;
     margin-top: 20px;
+    font-size: 50px;
     font-family: 'Heebo', sans-serif;
     font-family: 'Hind Siliguri', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -33,7 +34,12 @@ h1{
 .primo-paragrafo{
     margin-top: 40px;
     margin-bottom: 35px;
+    font-size: 15px;
     text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 img{
@@ -52,8 +58,20 @@ img{
 .nome, .ruolo {
     color: white;
 }
+.nome{
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    border-top: 10px;
+}
 
 .mail{
-    font-size: 15px;
+    font-size: 10px;
     color: lightblue;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 4px;
 }
